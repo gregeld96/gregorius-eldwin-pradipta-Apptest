@@ -50,7 +50,6 @@ export default StyleSheet.create({
 		width: width - 190,
 		alignItems: 'center',
 		justifyContent: 'space-between',
-		// backgroundColor: '#fff',
 		height: 70,
 		borderBottomLeftRadius: 20,
 		borderBottomRightRadius: 20,
